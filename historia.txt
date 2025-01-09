@@ -4,4 +4,4 @@ este ejemplo es de cambiarlo otra vez lo voy a cambiarlo
 
 Aqui es un cambio mas para poder trabajar un tercer comando en git
 
-Hoy habalremos de su vida
+Hoy hablaremos de su vida y obra maestría
